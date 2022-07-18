@@ -3,7 +3,6 @@ package lesson_3;
 import java.util.Scanner;
 
 public class NumbMonthSwitchCase {
-
     public static void main(String[] args) {
         switchCase();
     }

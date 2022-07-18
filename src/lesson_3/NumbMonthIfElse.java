@@ -4,11 +4,9 @@ import java.util.Scanner;
 
 public class NumbMonthIfElse {
     public static void main(String[] args) {
-        IfElse();
-
+        ifElse();
     }
-
-            public static void IfElse() {
+            public static void ifElse() {
             Scanner scanner = new Scanner(System.in);
             System.out.println("введите номер месяца");
             int numb = scanner.nextInt();

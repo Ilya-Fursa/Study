@@ -9,7 +9,6 @@ public class EvenNumb {
         int Number = scanner.nextInt();
         String resultString = evenNumb(Number);
         System.out.println(resultString);
-
     }
     public static String evenNumb(int number) {
         int y = number % 2;
